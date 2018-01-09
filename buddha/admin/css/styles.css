@@ -1,0 +1,59 @@
+h1 {
+    font-family: 'lobster', cursive;
+/*
+            border-bottom:9px solid #2c3e50;
+            width: auto;
+            margin-right: 500px;
+            margin-left: 500px;
+*/
+   
+}
+
+h2 {
+    font-family: 'lobster', cursive;
+}
+
+h3 {
+    font-family: 'lobster', cursive;
+}
+
+h4 {
+    font-family: 'lobster', cursive;
+}
+
+h5 {
+    font-family: 'lobster', cursive;
+}
+
+nav li {
+    font-family: 'lobster', cursive;
+        font-size: 16px;
+}
+
+
+.mdd {
+    height: 20px;
+    width: 20px;
+}
+
+.mbbb {
+    margin-bottom: 30px;
+}
+
+.imageblog {
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+}
+
+.im {
+    height: 500px;
+}
+
+
+
+.righty {
+     float: right;
+    color: hotpink;
+    
+}
